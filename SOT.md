@@ -33,3 +33,9 @@ No application, package, runtime, tests, or documentation surface is currently p
 ## Next Step
 
 Record human intent or initial project files before making architectural or implementation claims.
+
+## Blocked Implementation Items
+
+- Define the project purpose, expected user surface, or first deliverable before adding source files.
+- Add initial project files or an explicit scaffold decision before selecting runtime, package, test, or build tooling.
+- Keep validation limited to Git status until implementation files introduce registered commands.
