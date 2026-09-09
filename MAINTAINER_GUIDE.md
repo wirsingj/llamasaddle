@@ -6,8 +6,10 @@ purpose: Current commands and maintenance procedure for LlamaSaddle.
 belongs-here: verified commands, setup notes, diagnostics, danger zones, YAIML maintenance.
 not-here: product direction, durable architecture, complete history.
 durability: current-only; remove dead commands quickly.
+budget: About 600 words; a working target, not a length to fill.
 read-with: SOT; Architecture.
 update-when: commands, setup, tests, dependencies, or repository structure change.
+last-verified: not established; claims not rechecked in this refresh.
 agent-guidance: Record only commands that exist or were actually run.
 ---
 

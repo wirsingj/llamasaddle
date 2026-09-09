@@ -6,8 +6,10 @@ purpose: Current engineering state and direction for LlamaSaddle.
 belongs-here: verified repository state, declared intent, active risks, immediate next steps, uncertainty.
 not-here: durable architecture, complete history, command reference.
 durability: volatile; synthesize and prune aggressively.
+budget: About 800 words; a working target, not a length to fill.
 read-with: Architecture; Maintainer Guide.
 update-when: project purpose, files, implementation, risks, or priorities change.
+last-verified: not established; claims not rechecked in this refresh.
 agent-guidance: Verify repository reality before inferring purpose. Preserve uncertainty.
 ---
 

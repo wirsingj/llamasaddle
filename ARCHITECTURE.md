@@ -6,8 +6,10 @@ purpose: Durable system shape and boundaries for LlamaSaddle.
 belongs-here: implemented components, boundaries, data flow, invariants, retired approaches.
 not-here: current priorities, command reference, speculative product design.
 durability: stable; update when implementation structure exists or changes.
+budget: About 600 words; a working target, not a length to fill.
 read-with: SOT; Maintainer Guide.
 update-when: source files, runtime surfaces, data model, or external integrations are added.
+last-verified: not established; claims not rechecked in this refresh.
 agent-guidance: Do not invent architecture before implementation evidence exists.
 ---
 
