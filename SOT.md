@@ -19,13 +19,13 @@ Updated: 2026-07-15
 
 ## Current State
 
-Verified: LlamaSaddle is an initialized Git repository with no project files besides Git metadata and this YAIML project-memory set.
+Verified: LlamaSaddle is an initialized Git repository with a placeholder README, AI usage disclosure, and YAIML project-memory set. No implementation files are present.
 
-Declared by StewAIrd registry: LlamaSaddle is an active upstream placeholder that depends on YAIML project memory.
+Declared by ShepAIrd registry: LlamaSaddle is an active upstream placeholder that depends on YAIML project memory.
 
 ## Current Capabilities
 
-No application, package, runtime, tests, or documentation surface is currently present.
+No application, package, runtime, tests, or product documentation surface is currently present.
 
 ## Active Risks
 
